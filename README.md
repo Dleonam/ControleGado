@@ -1,2 +1,1 @@
-# ControleGado
-Projeto para um programa de controle de Gados com inf basicas
+o ideal sera voce instalar via comando PIP as LIBs necessarias para a execução do arquivo para ajudar estarei disponibilizando-a.
